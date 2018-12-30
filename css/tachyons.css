@@ -184,6 +184,10 @@ template { display: none; }
  * Add the correct display in IE 10.
  */
 [hidden] { display: none; }
+/* Ubik Extensions */
+/* Monospaced Typefaces (for code) */
+/* From http://cssfontstack.com */
+code, .hack { font-family: hack, Consolas, monaco, monospace; }
 /* Modules */
 /*
  
