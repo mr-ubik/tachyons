@@ -100,5 +100,9 @@
 * https://cryptocurrencyjobs.co/
 * https://foundlo.st
 * https://jjude.com
+* http://www.spokesman.com
 * https://beta.observablehq.com/
 * https://www.medienblau.de
+* https://c.atet.in
+* https://tools.kaklabs.com
+* https://eppendocs.de
