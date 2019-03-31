@@ -1,9 +1,10 @@
 /* Monospaced Typefaces (for code) */
 
 /* From http://cssfontstack.com */
-code, .hack {
+code,
+.hack {
   font-family: hack,
-               Consolas,
-               monaco,
-               monospace;
+    Consolas,
+    monaco,
+    monospace;
 }
